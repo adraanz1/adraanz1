@@ -35,5 +35,3 @@ core/  scripting/  databases/  web_stack/
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=flat&logo=cisco&logoColor=white)
 
 # user@adraanz1:~$ ping -c 1 adraanz1.net
---- 64 bytes from linkedin: seq=0 time=0.01ms
-📫 Let's talk infra: [Add your LinkedIn/Email here]
