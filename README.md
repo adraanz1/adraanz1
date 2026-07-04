@@ -2,7 +2,7 @@
 sysadmin  
 
 **user@adraanz1:~$** `cat about_me.txt`  
-Passionate SysAdmin and automation enthusiast. 
+Passionate SysAdmin and automation enthusiast.  
 I specialize in infrastructure management, turning complex IT challenges into streamlined, efficient workflows.  
 
 **user@adraanz1:~$** `ls /etc/technologies/`  
